@@ -1,0 +1,49 @@
+_repo: La-foire-aux-vanit-s-Tome-II_20864
+_version: 0.1.0
+alternative_title: Vanity Fair. French
+contributor:
+  translator:
+    agent_name: Guiffrey, Georges
+    alias: Guiffrey, Georges Maurice
+    birthdate: 1827
+    deathdate: 1887
+    gutenberg_agent_id: '9576'
+    url: http://www.gutenberg.org/2009/agents/9576
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thackeray, William Makepeace
+    aliases:
+    - Titmarsh, M. A.
+    - Titmarsh, Michael Angelo
+    - Thackeray, W. M.
+    birthdate: 1811
+    deathdate: 1863
+    gutenberg_agent_id: '313'
+    url: http://www.gutenberg.org/2009/agents/313
+    wikipedia:
+    - http://www.victorianweb.org/authors/wmt/wmtov.html
+    - http://en.wikipedia.org/wiki/William_Makepeace_Thackeray
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2007-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20864'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Satire'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Female friendship -- Fiction'
+- !lcsh 'Married women -- Fiction'
+- !lcsh 'Waterloo, Battle of, Waterloo, Belgium, 1815 -- Fiction'
+- !lcsh 'British -- Europe -- Fiction'
+- !lcsh 'England -- Fiction'
+- !lcc 'PR'
+title: La foire aux vanités, Tome II
+url: http://www.gutenberg.org/ebooks/20864
